@@ -1,5 +1,5 @@
 const mainTitle = document.querySelector('#title');
-let curValue = 0;
+let curValue = 1;
 
 const btnDecrement = document.querySelector('#decrement');
 const btnReset = document.querySelector('#reset');
